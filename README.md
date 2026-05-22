@@ -222,7 +222,7 @@ Módulo de integración blockchain.
 # 📂 Estructura del proyecto
 
 ```bash
-Flocial/
+PlataformaSocialDescentralizada/
 │
 ├── contracts/
 ├── api/
@@ -301,7 +301,7 @@ Wallet → Registro de perfil → Blockchain → Exploración social
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/Flocial.git
+git clone https://github.com/isairey/PlataformaSocialDescentralizada.git
 ```
 
 ---
@@ -309,7 +309,7 @@ git clone https://github.com/isairey/Flocial.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Flocial
+cd PlataformaSocialDescentralizada
 ```
 
 ---
