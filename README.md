@@ -356,24 +356,6 @@ https://flocialapi-6k6gsdlfoa-em.a.run.app/getprofiles
 
 ---
 
-# 📸 Vista previa
-
-## 🖥️ Funcionalidades del sistema
-
-<div align="center">
-
-### 🌐 Gestión social descentralizada
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="250"/>
-
-### 🔎 Exploración de usuarios
-<img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="250"/>
-
-### ⚡ APIs Web3
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="250"/>
-
-</div>
-
----
 
 # 🧠 Decisiones arquitectónicas
 
